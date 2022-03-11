@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259107637713",
+    "project_id": "contacts-app-d6bed",
+    "storage_bucket": "contacts-app-d6bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259107637713:android:32f7407e5ca19aece7f8f0",
+        "android_client_info": {
+          "package_name": "com.tushar.contacts_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259107637713-a0ku8o1dc3d2iq0tvh73mapvdiqddv8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ST_nYAiOwmdJBrtRO5tVCwBdRcOjDAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259107637713-a0ku8o1dc3d2iq0tvh73mapvdiqddv8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
